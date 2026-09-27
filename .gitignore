@@ -1,0 +1,4 @@
+target/
+*.log
+deptree-*.txt
+ISSUE.md
